@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Joel%20James%20P&fontSize=48&fontColor=ffffff&desc=Electronics%20%26%20Communication%20Engineering%20%28Honours%29%2C%20IIIT%20Kottayam&descAlignY=58&descSize=18&animation=fadeIn&v=2" alt="header banner" />
-</p>
-
+<h1 align="center">Joel James P</h1>
+<h3 align="center">Electronics &amp; Communication Engineering (Honours), IIIT Kottayam</h3>
 <p align="center">Hardware Acceleration · VLSI/RTL Design · Signal Processing Research</p>
 
 <p align="center">
@@ -90,6 +88,6 @@ Currently a research intern at **IIT Jodhpur** (cognitive radar networks — MAT
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joeljamesp&theme=tokyonight&hide_border=true" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=100&section=footer" />
+<hr>
 
 <p align="center"><sub>joeljamesnow@gmail.com · <a href="https://www.linkedin.com/in/joel-james-8459173a1/">LinkedIn</a></sub></p>
