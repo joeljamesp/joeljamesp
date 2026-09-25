@@ -73,34 +73,21 @@ Currently a research intern at **IIT Jodhpur** (cognitive radar networks — MAT
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/joeljamesp/RISC-V-CPU-BranchPrediction"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=RISC-V-CPU-BranchPrediction&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/joeljamesp/DDR4-Controller-UVM"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=DDR4-Controller-UVM&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/joeljamesp/CUDA-Radar-SignalProcessing"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=CUDA-Radar-SignalProcessing&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/joeljamesp/BTP"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=BTP&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/joeljamesp/FrameSentry"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=FrameSentry&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/joeljamesp/ClarityAI"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=ClarityAI&theme=tokyonight&hide_border=true" /></a>
-</p>
+| Project | Description |
+|---|---|
+| [**RISC-V-CPU-BranchPrediction**](https://github.com/joeljamesp/RISC-V-CPU-BranchPrediction) | 5-stage pipelined RV32I processor core; predict-not-taken baseline vs. a 2-bit saturating-counter BHT + BTB branch predictor, with cycle-accurate verification |
+| [**DDR4-Controller-UVM**](https://github.com/joeljamesp/DDR4-Controller-UVM) | Layered UVM verification environment for a DDR4 memory controller — constrained-random stimulus, scoreboard, functional coverage across multi-bank access patterns |
+| [**CUDA-Radar-SignalProcessing**](https://github.com/joeljamesp/CUDA-Radar-SignalProcessing) | GPU-accelerated pulse-Doppler radar pipeline — batched cuFFT for range-Doppler transforms, hand-written CUDA kernels for matched filtering, coherent integration, and CA-CFAR detection; validated against a CPU reference implementation |
+| [**BTP**](https://github.com/joeljamesp/BTP) | MATLAB simulations of monostatic pulse-Doppler radar — LFM/OFDM waveforms, range-Doppler processing (IIT Jodhpur research) |
+| [**FrameSentry**](https://github.com/joeljamesp/FrameSentry) | 3D-CNN video action recognition with anomaly detection |
+| [**ClarityAI**](https://github.com/joeljamesp/ClarityAI) | Text summarization and classification pipeline with fairness auditing and bias mitigation |
 
 <br>
 
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joeljamesp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeljamesp&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joeljamesp&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeljamesp&theme=tokyo-night&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=100&section=footer" />
