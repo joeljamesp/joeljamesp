@@ -1,5 +1,7 @@
-<h1 align="center">Joel James P</h1>
-<h3 align="center">Electronics &amp; Communication Engineering (Honours), IIIT Kottayam</h3>
+<p align="center">
+  <img src="assets/banner.svg" alt="Joel James P — Electronics & Communication Engineering (Honours), IIIT Kottayam" width="100%" />
+</p>
+
 <p align="center">Hardware Acceleration · VLSI/RTL Design · Signal Processing Research</p>
 
 <p align="center">
