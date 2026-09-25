@@ -1,15 +1,21 @@
-<h1 align="center">Joel James P</h1>
-<h3 align="center">Electronics &amp; Communication Engineering (Honours), IIIT Kottayam</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Joel%20James%20P&fontSize=48&fontColor=ffffff&desc=Electronics%20%26%20Communication%20Engineering%20(Honours),%20IIIT%20Kottayam&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner" />
+</p>
+
 <p align="center">Hardware Acceleration · VLSI/RTL Design · Signal Processing Research</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=76E9F1&center=true&vCenter=true&width=650&lines=Research+Intern+%40+IIT+Jodhpur+%E2%80%94+Cognitive+Radar+Networks;Research+Intern+%40+IISc+Bangalore+%E2%80%94+FANET+%2F+SDR;RTL+Design%2C+Hardware+Acceleration+%26+Verification;Signal+Processing+%2B+Parallel%2FGPU+Computing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=26D0CE&center=true&vCenter=true&width=650&lines=Research+Intern+%40+IIT+Jodhpur+%E2%80%94+Cognitive+Radar+Networks;Research+Intern+%40+IISc+Bangalore+%E2%80%94+FANET+%2F+SDR;RTL+Design%2C+Hardware+Acceleration+%26+Verification;Signal+Processing+%2B+Parallel%2FGPU+Computing" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joel-james-8459173a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:joeljamesnow@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/joeljamesp"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joeljamesp&style=flat-square&color=26d0ce&label=Profile+Views" alt="profile views" />
 </p>
 
 <br>
@@ -24,13 +30,28 @@ Currently a research intern at **IIT Jodhpur** (cognitive radar networks — MAT
 
 ## Technical Focus
 
-| Area | Tools & Concepts |
-|---|---|
-| **RTL Design & Verification** | Verilog, SystemVerilog, UVM, Xilinx Vivado, functional coverage, timing closure |
-| **Computer Architecture** | Pipelined datapaths, branch prediction, memory controllers, hardware ML accelerators |
-| **GPU & Parallel Computing** | CUDA, cuFFT, kernel design for signal-processing workloads |
-| **Signal Processing** | Radar (LFM/OFDM), audio codecs, MATLAB/Simulink, GNU Radio |
-| **Machine Learning** | PyTorch, TensorFlow, model evaluation & fairness auditing |
+<table>
+<tr>
+<td width="30%"><b>RTL Design & Verification</b></td>
+<td>Verilog, SystemVerilog, UVM, Xilinx Vivado, functional coverage, timing closure</td>
+</tr>
+<tr>
+<td><b>Computer Architecture</b></td>
+<td>Pipelined datapaths, branch prediction, memory controllers, hardware ML accelerators</td>
+</tr>
+<tr>
+<td><b>GPU & Parallel Computing</b></td>
+<td>CUDA, cuFFT, kernel design for signal-processing workloads</td>
+</tr>
+<tr>
+<td><b>Signal Processing</b></td>
+<td>Radar (LFM/OFDM), audio codecs, MATLAB/Simulink, GNU Radio</td>
+</tr>
+<tr>
+<td><b>Machine Learning</b></td>
+<td>PyTorch, TensorFlow, model evaluation & fairness auditing</td>
+</tr>
+</table>
 
 <br>
 
@@ -52,14 +73,18 @@ Currently a research intern at **IIT Jodhpur** (cognitive radar networks — MAT
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| [**RISC-V-CPU-BranchPrediction**](https://github.com/joeljamesp/RISC-V-CPU-BranchPrediction) | 5-stage pipelined RV32I processor core; predict-not-taken baseline vs. a 2-bit saturating-counter BHT + BTB branch predictor, with cycle-accurate verification |
-| [**DDR4-Controller-UVM**](https://github.com/joeljamesp/DDR4-Controller-UVM) | Layered UVM verification environment for a DDR4 memory controller — constrained-random stimulus, scoreboard, functional coverage across multi-bank access patterns |
-| [**CUDA-Radar-SignalProcessing**](https://github.com/joeljamesp/CUDA-Radar-SignalProcessing) | GPU-accelerated pulse-Doppler radar pipeline — batched cuFFT for range-Doppler transforms, hand-written CUDA kernels for matched filtering, coherent integration, and CA-CFAR detection; validated against a CPU reference implementation |
-| [**BTP**](https://github.com/joeljamesp/BTP) | MATLAB simulations of monostatic pulse-Doppler radar — LFM/OFDM waveforms, range-Doppler processing (IIT Jodhpur research) |
-| [**FrameSentry**](https://github.com/joeljamesp/FrameSentry) | 3D-CNN video action recognition with anomaly detection |
-| [**ClarityAI**](https://github.com/joeljamesp/ClarityAI) | Text summarization and classification pipeline with fairness auditing and bias mitigation |
+<p align="center">
+  <a href="https://github.com/joeljamesp/RISC-V-CPU-BranchPrediction"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=RISC-V-CPU-BranchPrediction&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/joeljamesp/DDR4-Controller-UVM"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=DDR4-Controller-UVM&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/joeljamesp/CUDA-Radar-SignalProcessing"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=CUDA-Radar-SignalProcessing&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/joeljamesp/BTP"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=BTP&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/joeljamesp/FrameSentry"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=FrameSentry&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/joeljamesp/ClarityAI"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamesp&repo=ClarityAI&theme=tokyonight&hide_border=true" /></a>
+</p>
 
 <br>
 
@@ -74,6 +99,10 @@ Currently a research intern at **IIT Jodhpur** (cognitive radar networks — MAT
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joeljamesp&theme=tokyonight&hide_border=true" />
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeljamesp&theme=tokyo-night&hide_border=true" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=100&section=footer" />
 
 <p align="center"><sub>joeljamesnow@gmail.com · <a href="https://www.linkedin.com/in/joel-james-8459173a1/">LinkedIn</a></sub></p>
