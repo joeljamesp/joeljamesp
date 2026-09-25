@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Joel%20James%20P&fontSize=48&fontColor=ffffff&desc=Electronics%20%26%20Communication%20Engineering%20(Honours),%20IIIT%20Kottayam&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Joel%20James%20P&fontSize=48&fontColor=ffffff&desc=Electronics%20%26%20Communication%20Engineering%20%28Honours%29%2C%20IIIT%20Kottayam&descAlignY=58&descSize=18&animation=fadeIn&v=2" alt="header banner" />
 </p>
 
 <p align="center">Hardware Acceleration · VLSI/RTL Design · Signal Processing Research</p>
