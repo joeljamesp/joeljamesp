@@ -1,0 +1,31 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2980"/>
+      <stop offset="100%" stop-color="#26d0ce"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <path fill="#0f1e5c" opacity="0.35">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,160 C150,190 300,130 450,160 C600,190 750,130 900,160 L900,200 L0,200 Z;
+        M0,150 C150,120 300,180 450,150 C600,120 750,180 900,150 L900,200 L0,200 Z;
+        M0,160 C150,190 300,130 450,160 C600,190 750,130 900,160 L900,200 L0,200 Z
+      "/>
+  </path>
+
+  <text x="450" y="90" text-anchor="middle" font-family="'Fira Code', 'Consolas', monospace"
+        font-size="42" font-weight="700" fill="#ffffff" opacity="0">
+    Joel James P
+    <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <text x="450" y="130" text-anchor="middle" font-family="'Fira Code', 'Consolas', monospace"
+        font-size="17" fill="#e8fbfa" opacity="0">
+    Electronics &amp; Communication Engineering (Honours), IIIT Kottayam
+    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="1.2s" fill="freeze"/>
+  </text>
+</svg>
